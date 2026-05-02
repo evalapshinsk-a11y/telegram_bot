@@ -15,7 +15,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Инициализация бота и диспетчера
-BOT_TOKEN = "8529578370:AAHvdHD1flTGZUvgGgT30CskaYFMfNIyqf0"
+BOT_TOKEN = "8749792054:AAGUl5Oc0CsiHCTuQ4LA91tqZMDNXj0Kd1E"
 bot = Bot(token=BOT_TOKEN, default=DefaultBotProperties(parse_mode=ParseMode.HTML))
 dp = Dispatcher()
 
